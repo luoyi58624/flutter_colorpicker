@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2.0.0]
+
+- 升级flutter最低版本为3.22.0
+
 ## [1.0.3]
 
 - [#68](https://github.com/mchome/flutter_colorpicker/issues/68) Fix material color picker outline for white color.

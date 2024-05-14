@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_colorpicker/flutter_colorpicker.dart';
+import 'package:luoyi_color_picker/luoyi_color_picker.dart';
 
 class MaterialColorPickerExample extends StatefulWidget {
   const MaterialColorPickerExample({
